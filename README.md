@@ -1,14 +1,14 @@
 # MADHAV-ECOMMERCE-SALES-DASHBORD
 
-🚀Power BI Dashboard | Mahadev EcommerceSales
+🚀Power BI Dashboard | Mahadev EcommerceSales<br>
 Proud to showcase my latest project: an interactive and insight-driven Power BI dashboard designed to analyze e-commerce performance.
 
 📊Key Highlights:
-438K+ Sales | 37K+ Profit
-KPI Cards for Sales, Quantity & AOV
-Insights by State, Customer, Payment Mode
-Quarterly & State-wise filtering with slicers
-Clean layout with Donut, Bar & Column charts
+438K+ Sales | 37K+ Profit<br>
+KPI Cards for Sales, Quantity & AOV<br>
+Insights by State, Customer, Payment Mode<br>
+Quarterly & State-wise filtering with slicers<br>
+Clean layout with Donut, Bar & Column charts<br>
 This project enhanced my skills in data visualization, storytelling, and analytical thinking.Grateful for every opportunity to turn raw data into valuable insights.
 
 💼Project by: Hitesh Sunil Patil
