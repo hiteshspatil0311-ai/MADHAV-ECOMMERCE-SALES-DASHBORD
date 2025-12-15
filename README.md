@@ -12,7 +12,9 @@ Clean layout with Donut, Bar & Column charts
 This project enhanced my skills in data visualization, storytelling, and analytical thinking.Grateful for every opportunity to turn raw data into valuable insights.
 
 💼Project by: Hitesh Sunil Patil
+
 📍Tool Used: Power BI
+
 🔍Let me know your feedback or suggestions!
 
 ###🚀📊.	Screenshots / Demos
