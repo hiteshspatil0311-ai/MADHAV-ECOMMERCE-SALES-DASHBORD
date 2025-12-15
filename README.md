@@ -15,6 +15,6 @@ This project enhanced my skills in data visualization, storytelling, and analyti
 📍Tool Used: Power BI
 🔍Let me know your feedback or suggestions!
 
-###.	Screenshots / Demos
+###🚀📊.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
 Example: ![Dashboard Preview](https://github.com/hiteshspatil0311-ai/MADHAV-ECOMMERCE-SALES-DASHBORD/blob/main/SALES%20DASHBORD.png)
