@@ -1,4 +1,4 @@
-# MADHAV-ECOMMERCE-SALES-DASHBORD
+# BI MADHAV-ECOMMERCE-SALES-DASHBORD
 
 🚀Power BI Dashboard | Mahadev EcommerceSales<br>
 Proud to showcase my latest project: an interactive and insight-driven Power BI dashboard designed to analyze e-commerce performance.
